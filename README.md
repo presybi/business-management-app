@@ -33,4 +33,4 @@ Built with Laravel and Bootstrap 5.
 - **Database:** MySQL
 - **PDF Generation:** Laravel Snappy (wkhtmltopdf)
 - **Tables:** Yajra DataTables
-- **Libraries:** Axios, Tom Select, Bootstrap Icons
+- **Libraries:** Tom Select, Bootstrap Icons
